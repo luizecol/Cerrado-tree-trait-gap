@@ -1,10 +1,10 @@
 ---
 output: github_document
 ---
-#In construction and editing 
 
-# Wood trait gap of the Cerrado trees
+# Cerrado trees trait gap
 
+### In construction
 Add authors name and orcid
 
 Add description of the abstract
